@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen5",
+    "name": "Zen5_HiRes",
+    "listname": "Zen5_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Zen5_HiRes"
+  }
+]
