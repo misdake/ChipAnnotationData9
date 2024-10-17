@@ -1,6 +1,6 @@
 {
   "vendor": "Apple",
-  "type": "Soc",
+  "type": "SoC",
   "family": "",
   "name": "A18_Pro",
   "githubRepo": "misdake/ChipAnnotationData9",
