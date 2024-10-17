@@ -1,0 +1,43 @@
+{
+  "vendor": "Microsoft",
+  "type": "Console",
+  "family": "Xbox360",
+  "name": "Xenos_Vejle",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 5,
+  "source": "https://www.bilibili.com/video/BV1C7xbe5EUv",
+  "createTime": "Oct 17, 2024 1:25:06 PM",
+  "width": 5953,
+  "height": 6958,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 14
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 11.95,
+  "heightMillimeter": 13.93
+}

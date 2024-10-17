@@ -1,0 +1,48 @@
+{
+  "vendor": "Apple",
+  "type": "Soc",
+  "family": "",
+  "name": "A18_Pro",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 6,
+  "source": "https://www.bilibili.com/opus/985797725812424705",
+  "createTime": "Oct 17, 2024 1:27:40 PM",
+  "width": 8021,
+  "height": 12360,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 16,
+      "yMax": 25
+    },
+    {
+      "level": 1,
+      "xMax": 8,
+      "yMax": 13
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 7
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 4
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 8.44,
+  "heightMillimeter": 13.0
+}

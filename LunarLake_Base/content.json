@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "LunarLake",
+  "name": "LunarLake_Base",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 4,
+  "source": "https://www.bilibili.com/opus/984367798033580036",
+  "createTime": "Oct 17, 2024 1:21:14 PM",
+  "width": 11316,
+  "height": 8797,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 23,
+      "yMax": 18
+    },
+    {
+      "level": 1,
+      "xMax": 12,
+      "yMax": 9
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 16.77,
+  "heightMillimeter": 13.1
+}

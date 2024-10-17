@@ -6,5 +6,45 @@
     "name": "Zen5_CCD_HiRes",
     "listname": "Zen5_CCD_HiRes",
     "url": "https://misdake.github.io/ChipAnnotationData9/Zen5_HiRes"
+  },
+  {
+    "vendor": "Apple",
+    "type": "Soc",
+    "family": "",
+    "name": "A18_Pro",
+    "listname": "A18_Pro",
+    "url": "https://misdake.github.io/ChipAnnotationData9/A18_Pro"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "LunarLake",
+    "name": "LunarLake_Base",
+    "listname": "LunarLake_Base",
+    "url": "https://misdake.github.io/ChipAnnotationData9/LunarLake_Base"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "LunarLake",
+    "name": "LunarLake_Compute",
+    "listname": "LunarLake_Compute",
+    "url": "https://misdake.github.io/ChipAnnotationData9/LunarLake_Compute"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "LunarLake",
+    "name": "LunarLake_IO",
+    "listname": "LunarLake_IO",
+    "url": "https://misdake.github.io/ChipAnnotationData9/LunarLake_IO"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "Console",
+    "family": "Xbox360",
+    "name": "Xenos_Vejle",
+    "listname": "Xenos_Vejle",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Xenos_Vejle"
   }
 ]
