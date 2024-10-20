@@ -1,6 +1,6 @@
 {
   "vendor": "Intel",
-  "type": "GPU",
+  "type": "CPU",
   "family": "MeteorLake",
   "name": "MeteorLake_GPU_UP4",
   "githubRepo": "misdake/ChipAnnotationData9",

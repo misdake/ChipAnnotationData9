@@ -65,7 +65,7 @@
   },
   {
     "vendor": "Intel",
-    "type": "GPU",
+    "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_GPU_UP4",
     "listname": "MeteorLake_GPU_UP4",
