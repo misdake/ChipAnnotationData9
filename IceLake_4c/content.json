@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "IceLake",
+  "name": "IceLake_4c",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 7,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Oct 20, 2024 8:40:31 AM",
+  "width": 5682,
+  "height": 5319,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 11.36,
+  "heightMillimeter": 10.64
+}

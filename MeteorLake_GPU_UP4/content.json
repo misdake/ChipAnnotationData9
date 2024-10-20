@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "GPU",
+  "family": "MeteorLake",
+  "name": "MeteorLake_GPU_UP4",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 10,
+  "source": "https://www.bilibili.com/opus/990019017185951762",
+  "createTime": "Oct 20, 2024 8:43:33 AM",
+  "width": 10813,
+  "height": 2425,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 22,
+      "yMax": 5
+    },
+    {
+      "level": 1,
+      "xMax": 11,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.15,
+  "heightMillimeter": 2.29
+}

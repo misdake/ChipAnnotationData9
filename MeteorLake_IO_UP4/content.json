@@ -1,0 +1,38 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "MeteorLake",
+  "name": "MeteorLake_IO_UP4",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 9,
+  "source": "https://www.bilibili.com/opus/990019017185951762",
+  "createTime": "Oct 20, 2024 8:43:03 AM",
+  "width": 3870,
+  "height": 2869,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 6
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 3.61,
+  "heightMillimeter": 2.67
+}

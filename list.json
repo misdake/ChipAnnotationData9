@@ -18,6 +18,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "IceLake",
+    "name": "IceLake_4c",
+    "listname": "IceLake_4c",
+    "url": "https://misdake.github.io/ChipAnnotationData9/IceLake_4c"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "LunarLake",
     "name": "LunarLake_Base",
     "listname": "LunarLake_Base",
@@ -38,6 +46,30 @@
     "name": "LunarLake_IO",
     "listname": "LunarLake_IO",
     "url": "https://misdake.github.io/ChipAnnotationData9/LunarLake_IO"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_IO_UP4",
+    "listname": "MeteorLake_IO_UP4",
+    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_IO_UP4"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "TigerLake",
+    "name": "TigerLake_8c",
+    "listname": "TigerLake_8c",
+    "url": "https://misdake.github.io/ChipAnnotationData9/TigerLake_8c"
+  },
+  {
+    "vendor": "Intel",
+    "type": "GPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_GPU_UP4",
+    "listname": "MeteorLake_GPU_UP4",
+    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_GPU_UP4"
   },
   {
     "vendor": "Microsoft",

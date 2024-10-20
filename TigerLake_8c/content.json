@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "TigerLake",
+  "name": "TigerLake_8c",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 8,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Oct 20, 2024 8:41:32 AM",
+  "width": 9482,
+  "height": 5303,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 19,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 10,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 18.95,
+  "heightMillimeter": 10.58
+}
