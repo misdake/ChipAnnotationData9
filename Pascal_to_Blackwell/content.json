@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "Comparison",
+  "family": "",
+  "name": "Pascal_to_Blackwell",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 11,
+  "source": "https://space.bilibili.com/374034429",
+  "createTime": "Jan 25, 2025 1:54:10 PM",
+  "width": 18365,
+  "height": 5372,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 36,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 18,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 9,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 5,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

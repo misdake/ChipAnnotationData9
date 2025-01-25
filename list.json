@@ -51,6 +51,14 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
+    "name": "MeteorLake_GPU_UP4",
+    "listname": "MeteorLake_GPU_UP4",
+    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_GPU_UP4"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
     "name": "MeteorLake_IO_UP4",
     "listname": "MeteorLake_IO_UP4",
     "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_IO_UP4"
@@ -64,19 +72,19 @@
     "url": "https://misdake.github.io/ChipAnnotationData9/TigerLake_8c"
   },
   {
-    "vendor": "Intel",
-    "type": "CPU",
-    "family": "MeteorLake",
-    "name": "MeteorLake_GPU_UP4",
-    "listname": "MeteorLake_GPU_UP4",
-    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_GPU_UP4"
-  },
-  {
     "vendor": "Microsoft",
     "type": "Console",
     "family": "Xbox360",
     "name": "Xenos_Vejle",
     "listname": "Xenos_Vejle",
     "url": "https://misdake.github.io/ChipAnnotationData9/Xenos_Vejle"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "Comparison",
+    "family": "",
+    "name": "Pascal_to_Blackwell",
+    "listname": "Pascal to Blackwell",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Pascal_to_Blackwell"
   }
 ]
