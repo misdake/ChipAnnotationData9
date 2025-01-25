@@ -86,5 +86,13 @@
     "name": "Pascal_to_Blackwell",
     "listname": "Pascal to Blackwell",
     "url": "https://misdake.github.io/ChipAnnotationData9/Pascal_to_Blackwell"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Blackwell",
+    "name": "GB202",
+    "listname": "GB202",
+    "url": "https://misdake.github.io/ChipAnnotationData9/GB202"
   }
 ]

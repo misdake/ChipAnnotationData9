@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Blackwell",
+  "name": "GB202",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 12,
+  "source": "https://space.bilibili.com/374034429",
+  "createTime": "Jan 25, 2025 1:56:29 PM",
+  "width": 8630,
+  "height": 11312,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 17,
+      "yMax": 23
+    },
+    {
+      "level": 1,
+      "xMax": 9,
+      "yMax": 12
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 24.1,
+  "heightMillimeter": 31.6
+}
