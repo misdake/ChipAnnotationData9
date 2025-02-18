@@ -17,7 +17,7 @@
   },
   {
     "vendor": "AMD",
-    "type": "GPU",
+    "type": "CPU",
     "family": "Zen5+RDNA3.5",
     "name": "StrixHalo",
     "listname": "StrixHalo",
@@ -25,7 +25,7 @@
   },
   {
     "vendor": "AMD",
-    "type": "GPU",
+    "type": "CPU",
     "family": "Zen5+RDNA3.5",
     "name": "StrixHalo_IOD",
     "listname": "StrixHalo_IOD",

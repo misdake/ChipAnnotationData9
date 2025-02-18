@@ -1,6 +1,6 @@
 {
   "vendor": "AMD",
-  "type": "GPU",
+  "type": "CPU",
   "family": "Zen5+RDNA3.5",
   "name": "StrixHalo_IOD",
   "githubRepo": "misdake/ChipAnnotationData9",
