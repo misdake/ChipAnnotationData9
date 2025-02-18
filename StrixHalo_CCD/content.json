@@ -1,0 +1,43 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen5+RDNA3.5",
+  "name": "StrixHalo_CCD",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 13,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Feb 18, 2025 2:42:00 PM",
+  "width": 6154,
+  "height": 5042,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 13,
+      "yMax": 10
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 5
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 9.04,
+  "heightMillimeter": 7.42
+}
