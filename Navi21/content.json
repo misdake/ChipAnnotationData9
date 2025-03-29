@@ -1,0 +1,48 @@
+{
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "RDNA2",
+  "name": "Navi21",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 16,
+  "source": "https://space.bilibili.com/374034429",
+  "createTime": "Mar 29, 2025 8:38:10 AM",
+  "width": 11511,
+  "height": 17899,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 23,
+      "yMax": 35
+    },
+    {
+      "level": 1,
+      "xMax": 12,
+      "yMax": 18
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 9
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 5
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 3
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 2
+    }
+  ],
+  "widthMillimeter": 18.25,
+  "heightMillimeter": 28.45
+}
