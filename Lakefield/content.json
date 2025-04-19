@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "IceLake",
+  "name": "Lakefield",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 18,
+  "source": "https://www.bilibili.com/video/BV1Sj5EzsERK",
+  "createTime": "Apr 19, 2025 1:37:48 AM",
+  "width": 18416,
+  "height": 12704,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 36,
+      "yMax": 25
+    },
+    {
+      "level": 1,
+      "xMax": 18,
+      "yMax": 13
+    },
+    {
+      "level": 2,
+      "xMax": 9,
+      "yMax": 7
+    },
+    {
+      "level": 3,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 11.07,
+  "heightMillimeter": 7.64
+}

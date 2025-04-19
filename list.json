@@ -2,6 +2,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen3+RDNA2",
+    "name": "Rembrandt",
+    "listname": "Rembrandt",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Rembrandt"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen5",
     "name": "Zen5_CCD_HiRes",
     "listname": "Zen5_CCD_HiRes",
@@ -54,6 +62,14 @@
     "name": "IceLake_4c",
     "listname": "IceLake_4c",
     "url": "https://misdake.github.io/ChipAnnotationData9/IceLake_4c"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "IceLake",
+    "name": "Lakefield",
+    "listname": "Lakefield",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Lakefield"
   },
   {
     "vendor": "Intel",

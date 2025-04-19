@@ -1,0 +1,48 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen3+RDNA2",
+  "name": "Rembrandt",
+  "githubRepo": "misdake/ChipAnnotationData9",
+  "githubIssueId": 17,
+  "source": "https://space.bilibili.com/374034429",
+  "createTime": "Apr 19, 2025 1:34:37 AM",
+  "width": 10688,
+  "height": 13538,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 21,
+      "yMax": 27
+    },
+    {
+      "level": 1,
+      "xMax": 11,
+      "yMax": 14
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 7
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 12.84,
+  "heightMillimeter": 16.25
+}
