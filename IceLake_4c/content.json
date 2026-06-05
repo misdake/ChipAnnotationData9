@@ -5,7 +5,7 @@
   "name": "IceLake_4c",
   "githubRepo": "misdake/ChipAnnotationData9",
   "githubIssueId": 7,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "",
   "createTime": "Oct 20, 2024 8:40:31 AM",
   "width": 5682,
   "height": 5319,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 11.36,
-  "heightMillimeter": 10.64
+  "heightMillimeter": 10.64,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-i7-1065g7.c2228"
 }

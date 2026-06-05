@@ -5,7 +5,7 @@
   "name": "Rembrandt",
   "githubRepo": "misdake/ChipAnnotationData9",
   "githubIssueId": 17,
-  "source": "https://space.bilibili.com/374034429",
+  "source": "",
   "createTime": "Apr 19, 2025 1:34:37 AM",
   "width": 10688,
   "height": 13538,
@@ -44,5 +44,8 @@
     }
   ],
   "widthMillimeter": 12.84,
-  "heightMillimeter": 16.25
+  "heightMillimeter": 16.25,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/ryzen-7-6800h.c2527"
 }

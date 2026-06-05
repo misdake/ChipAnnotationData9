@@ -5,7 +5,7 @@
   "name": "Navi21",
   "githubRepo": "misdake/ChipAnnotationData9",
   "githubIssueId": 16,
-  "source": "https://space.bilibili.com/374034429",
+  "source": "",
   "createTime": "Mar 29, 2025 8:38:10 AM",
   "width": 11511,
   "height": 17899,
@@ -44,5 +44,8 @@
     }
   ],
   "widthMillimeter": 18.25,
-  "heightMillimeter": 28.45
+  "heightMillimeter": 28.45,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-navi-21.g923"
 }
