@@ -4,7 +4,7 @@
   "family": "TigerLake",
   "name": "TigerLake_8c",
   "githubRepo": "misdake/ChipAnnotationData9",
-  "githubIssueId": 8,
+  "githubIssueId": 0,
   "source": "https://www.bilibili.com/video/BV1hC2LYQExw",
   "createTime": "Oct 20, 2024 8:41:32 AM",
   "width": 9482,
@@ -48,5 +48,5 @@
   "imageAuthorName": "万扯淡",
   "imageAuthorUrl": "https://space.bilibili.com/374034429",
   "specUrl": "https://www.techpowerup.com/cpu-specs/core-i7-1195g7.c4212",
-  "listname": "TigerLake"
+  "listname": "TigerLake-H"
 }
